@@ -1,0 +1,40 @@
+ 
+
+dÁlon g¦r æj Ømei√j men taàta (t∂ pote boÚlese shma∂nein 
+ÐpÒtan ×n fq◊gghsqe) p£lai gignèskete, ¹me√j de prÕ toà men 
+òÒmeqa, nàn d' ºporˇkamen::: 
+
+δῆλον γὰρ ὡς ὑμεῖς μεν ταῦτα (τί ποτε βούλεσε σημαίνειν 
+ὁπόταν ὄν φθέγγησθε) πάλαι γιγνώσκετε, ἡμεῖς δε πρὸ τοῦ μεν 
+ᾡόμεηα, νῦν δ´ ἠπορήκαμεν 
+
+
+ruby:
+прочитать файл соответствий
+заменить 
+
+если встретился новый символ - вывести предупреждение и этот символ
+
+и сохранить
+
+
+
+
+
+taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta taàta 
+
+
+- ταῦτα 
+
+
+
+;;;
+
+(fset 'restore-greek-from-latin1
+   [?\M-x replace-regexp return ?t return ?τ return 
+	  ?\M-x replace-regexp return ?a return ?α return 
+	  end])
+
+
+(global-set-key (kbd "C-c r") 'restore-greek-from-latin1)
+
