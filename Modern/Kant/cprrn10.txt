@@ -641,7 +641,7 @@ I consider the division by paragraphs to be necessary only up to this point, bec
 
 ====
 
-BOOK II
+Book II
 
 Analytic of Principles
 
@@ -655,7 +655,7 @@ Understanding and judgement accordingly possess in transcendental logic a canon 
 
 Accordingly, the analytic of principles will be merely a canon for the faculty of judgement, for the instruction of this faculty in its application to phenomena of the pure conceptions of the understanding, which contain the necessary condition for the establishment of a priori laws. On this account, although the subject of the following chapters is the especial principles of understanding, I shall make use of the term Doctrine of the faculty of judgement, in order to define more particularly my present purpose.
 
-INTRODUCTION. Of the Transcendental Faculty of judgement in General.
+Introduction. Of the Transcendental Faculty of judgement in General.
 
 If understanding in general be defined as the faculty of laws or rules, the faculty of judgement may be termed the faculty of subsumption under these rules; that is, of distinguishing whether this or that does or does not stand under a given rule (casus datae legis). General logic contains no directions or precepts for the faculty of judgement, nor can it contain any such. For as it makes abstraction of all content of cognition, no duty is left for it, except that of exposing analytically the mere form of cognition in conceptions, judgements, and conclusions, and of thereby establishing formal rules for all exercise of the understanding. Now if this logic wished to give some general direction how we should subsume under these rules, that is, how we should distinguish whether this or that did or did not stand under them, this again could not be done otherwise than by means of a rule. But this rule, precisely because it is a rule, requires for itself direction from the faculty of judgement. Thus, it is evident that the understanding is capable of being instructed by rules, but that the judgement is a peculiar talent, which does not, and cannot require tuition, but only exercise. This faculty is therefore the specific quality of the so-called mother wit, the want of which no scholastic discipline can compensate.
 
@@ -669,9 +669,9 @@ But transcendental philosophy has this peculiarity, that besides indicating the 
 
 Our transcendental doctrine of the faculty of judgement will contain two chapters. The first will treat of the sensuous condition under which alone pure conceptions of the understanding can be employed-- that is, of the schematism of the pure understanding. The second will treat of those synthetical judgements which are derived a priori from pure conceptions of the understanding under those conditions, and which lie a priori at the foundation of all other cognitions, that is to say, it will treat of the principles of the pure understanding.
 
-TRANSCENDENTAL DOCTRINE OF THE FACULTY OF JUDGEMENT OR, ANALYTIC OF PRINCIPLES.
+Transcendental Doctrine Of The Faculty Of Judgement Or, Analytic Of Principles.
 
-CHAPTER I. Of the Schematism at of the Pure Conceptions of the Understanding.
+Chapter I. Of the Schematism at of the Pure Conceptions of the Understanding
 
 In all subsumptions of an object under a conception, the representation of the object must be homogeneous with the conception; in other words, the conception must contain that which is represented in the object to be subsumed under it. For this is the meaning of the expression: "An object is contained under a conception." Thus the empirical conception of a plate is homogeneous with the pure geometrical conception of a circle, inasmuch as the roundness which is cogitated in the former is intuited in the latter.
 
@@ -711,6 +711,8 @@ Hence it is apparent that the schematism of the understanding, by means of the t
 
 It is, however, evident at first sight, that although the schemata of sensibility are the sole agents in realizing the categories, they do, nevertheless, also restrict them, that is, they limit the categories by conditions which lie beyond the sphere of understanding-- namely, in sensibility. Hence the schema is properly only the phenomenon, or the sensuous conception of an object in harmony with the category. (Numerus est quantitas phaenomenon--sensatio realitas phaenomenon; constans et perdurabile rerum substantia phaenomenon-- aeternitas, necessitas, phaenomena, etc.) Now, if we remove a restrictive condition, we thereby amplify, it appears, the formerly limited conception. In this way, the categories in their pure signification, free from all conditions of sensibility, ought to be valid of things as they are, and not, as the schemata represent them, merely as they appear; and consequently the categories must have a significance far more extended, and wholly independent of all schemata. In truth, there does always remain to the pure conceptions of the understanding, after abstracting every sensuous condition, a value and significance, which is, however, merely logical. But in this case, no object is given them, and therefore they have no meaning sufficient to afford us a conception of an object. The notion of substance, for example, if we leave out the sensuous determination of permanence, would mean nothing more than a something which can be cogitated as subject, without the possibility of becoming a predicate to anything else. Of this representation I can make nothing, inasmuch as it does not indicate to me what determinations the thing possesses which must thus be valid as premier subject. Consequently, the categories, without schemata are merely functions of the understanding for the production of conceptions, but do not represent any object. This significance they derive from sensibility, which at the same time realizes the understanding and restricts it.
 
+
+===
 CHAPTER II. System of all Principles of the Pure Understanding.
 
 In the foregoing chapter we have merely considered the general conditions under which alone the transcendental faculty of judgement is justified in using the pure conceptions of the understanding for synthetical judgements. Our duty at present is to exhibit in systematic connection those judgements which the understanding really produces a priori. For this purpose, our table of the categories will certainly afford us the natural and safe guidance. For it is precisely the categories whose application to possible experience must constitute all pure a priori cognition of the understanding; and the relation of which to sensibility will, on that very account, present us with a complete and systematic catalogue of all the transcendental principles of the use of the understanding.
