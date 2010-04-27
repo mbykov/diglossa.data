@@ -483,7 +483,7 @@ In the transcendental philosophy of the ancients there exists one more leading d
 
 Chapter II. Of the Deduction of the Pure Conceptions of the Understanding.
 
-§ 9. SECTION I Of the Principles of a Transcendental Deduction in general.
+§ 9. Section I. Of the Principles of a Transcendental Deduction in general.
 
 Teachers of jurisprudence, when speaking of rights and claims, distinguish in a cause the question of right (quid juris) from the question of fact (quid facti), and while they demand proof of both, they give to the proof of the former, which goes to establish right or claim in law, the name of deduction. Now we make use of a great number of empirical conceptions, without opposition from any one; and consider ourselves, even without any attempt at deduction, justified in attaching to them a sense, and a supposititious signification, because we have always experience at hand to demonstrate their objective reality. There exist also, however, usurped conceptions, such as fortune, fate, which circulate with almost universal indulgence, and yet are occasionally challenged by the question, "quid juris?" In such cases, we have great difficulty in discovering any deduction for these terms, inasmuch as we cannot produce any manifest ground of right, either from experience or from reason, on which the claim to employ them can be founded.
 
@@ -511,7 +511,7 @@ The former of these two celebrated men opened a wide door to extravagance--(for 
 
 I shall merely premise an explanation of what the categories are. They are conceptions of an object in general, by means of which its intuition is contemplated as determined in relation to one of the logical functions of judgement. The following will make this plain. The function of the categorical judgement is that of the relation of subject to predicate; for example, in the proposition: "All bodies are divisible." But in regard to the merely logical use of the understanding, it still remains undetermined to which Of these two conceptions belongs the function Of subject and to which that of predicate. For we could also say: "Some divisible is a body." But the category of substance, when the conception of a body is brought under it, determines that; and its empirical intuition in experience must be contemplated always as subject and never as mere predicate. And so with all the other categories.
 
-§ 11. SECTION II Transcendental Deduction of the pure Conceptions of the Understanding.
+§ 11. Section II. Transcendental Deduction of the pure Conceptions of the Understanding.
 
 Of the Possibility of a Conjunction of the manifold representations given by Sense.
 
@@ -639,9 +639,11 @@ The foregoing deduction is an exposition of the pure conceptions of the understa
 
 I consider the division by paragraphs to be necessary only up to this point, because we had to treat of the elementary conceptions. As we now proceed to the exposition of the employment of these, I shall not designate the chapters in this manner any further.
 
-BOOK II.
+====
 
-Analytic of Principles.
+BOOK II
+
+Analytic of Principles
 
 General logic is constructed upon a plan which coincides exactly with the division of the higher faculties of cognition. These are, understanding, judgement, and reason. This science, accordingly, treats in its analytic of conceptions, judgements, and conclusions in exact correspondence with the functions and order of those mental powers which we include generally under the generic denomination of understanding.
 
