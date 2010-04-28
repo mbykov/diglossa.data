@@ -1965,9 +1965,9 @@ So long as the object of our rational conceptions is the totality of conditions 
 
 =====
 
-CHAPTER III. The Ideal of Pure Reason.
+Chapter III. The Ideal of Pure Reason
 
-SECTION I. Of the Ideal in General.
+Section I. Of the Ideal in General
 
 We have seen that pure conceptions do not present objects to the mind, except under sensuous conditions; because the conditions of objective reality do not exist in these conceptions, which contain, in fact, nothing but the mere form of thought. They may, however, when applied to phenomena, be presented in concreto; for it is phenomena that present to them the materials for the formation of empirical conceptions, which are nothing more than concrete forms of the conceptions of the understanding. But ideas are still further removed from objective reality than categories; for no phenomenon can ever present them to the human mind in concreto. They contain a certain perfection, attainable by no possible empirical cognition; and they give to reason a systematic unity, to which the unity of experience attempts to approximate, but can never completely attain.
 
@@ -2199,9 +2199,11 @@ Transcendental theology is still therefore, notwithstanding its objective insuff
 
 A Supreme Being is, therefore, for the speculative reason, a mere ideal, though a faultless one--a conception which perfects and crowns the system of human cognition, but the objective reality of which can neither be proved nor disproved by pure reason. If this defect is ever supplied by a moral theology, the problematic transcendental theology which has preceded, will have been at least serviceable as demonstrating the mental necessity existing for the conception, by the complete determination of it which it has furnished, and the ceaseless testing of the conclusions of a reason often deceived by sense, and not always in harmony with its own ideas. The attributes of necessity, infinitude, unity, existence apart from the world (and not as a world soul), eternity (free from conditions of time), omnipresence (free from conditions of space), omnipotence, and others, are pure transcendental predicates; and thus the accurate conception of a Supreme Being, which every theology requires, is furnished by transcendental theology alone.
 
-APPENDIX.
+====
 
-Of the Regulative Employment of the Ideas of Pure Reason.
+Appendix
+
+Of the Regulative Employment of the Ideas of Pure Reason
 
 The result of all the dialectical attempts of pure reason not only confirms the truth of what we have already proved in our Transcendental Analytic, namely, that all inferences which would lead us beyond the limits of experience are fallacious and groundless, but it at the same time teaches us this important lesson, that human reason has a natural inclination to overstep these limits, and that transcendental ideas are as much the natural property of the reason as categories are of the understanding. There exists this difference, however, that while the categories never mislead us, outward objects being always in perfect harmony therewith, ideas are the parents of irresistible illusions, the severest and most subtle criticism being required to save us from the fallacies which they induce.
 
@@ -2337,13 +2339,18 @@ Thus, pure reason, which at first seemed to promise us nothing less than the ext
 
 Thus all human cognition begins with intuitions, proceeds from thence to conceptions, and ends with ideas. Although it possesses, in relation to all three elements, a priori sources of cognition, which seemed to transcend the limits of all experience, a thoroughgoing criticism demonstrates that speculative reason can never, by the aid of these elements, pass the bounds of possible experience, and that the proper destination of this highest faculty of cognition is to employ all methods, and all the principles of these methods, for the purpose of penetrating into the innermost secrets of nature, by the aid of the principles of unity (among all kinds of which teleological unity is the highest), while it ought not to attempt to soar above the sphere of experience, beyond which there lies nought for us but the void inane. The critical examination, in our Transcendental Analytic, of all the propositions which professed to extend cognition beyond the sphere of experience, completely demonstrated that they can only conduct us to a possible experience. If we were not distrustful even of the clearest abstract theorems, if we were not allured by specious and inviting prospects to escape from the constraining power of their evidence, we might spare ourselves the laborious examination of all the dialectical arguments which a transcendent reason adduces in support of its pretensions; for we should know with the most complete certainty that, however honest such professions might be, they are null and valueless, because they relate to a kind of knowledge to which no man can by any possibility attain. But, as there is no end to discussion, if we cannot discover the true cause of the illusions by which even the wisest are deceived, and as the analysis of all our transcendent cognition into its elements is of itself of no slight value as a psychological study, while it is a duty incumbent on every philosopher--it was found necessary to investigate the dialectical procedure of reason in its primary sources. And as the inferences of which this dialectic is the parent are not only deceitful, but naturally possess a profound interest for humanity, it was advisable at the same time, to give a full account of the momenta of this dialectical procedure, and to deposit it in the archives of human reason, as a warning to all future metaphysicians to avoid these causes of speculative error.
 
+
+=== 
+
 II. Transcendental Doctrine Of Method
 
 If we regard the sum of the cognition of pure speculative reason as an edifice, the idea of which, at least, exists in the human mind, it may be said that we have in the Transcendental Doctrine of Elements examined the materials and determined to what edifice these belong, and what its height and stability. We have found, indeed, that, although we had purposed to build for ourselves a tower which should reach to Heaven, the supply of materials sufficed merely for a habitation, which was spacious enough for all terrestrial purposes, and high enough to enable us to survey the level plain of experience, but that the bold undertaking designed necessarily failed for want of materials--not to mention the confusion of tongues, which gave rise to endless disputes among the labourers on the plan of the edifice, and at last scattered them over all the world, each to erect a separate building for himself, according to his own plans and his own inclinations. Our present task relates not to the materials, but to the plan of an edifice; and, as we have had sufficient warning not to venture blindly upon a design which may be found to transcend our natural powers, while, at the same time, we cannot give up the intention of erecting a secure abode for the mind, we must proportion our design to the material which is presented to us, and which is, at the same time, sufficient for all our wants.
 
 I understand, then, by the transcendental doctrine of method, the determination of the formal conditions of a complete system of pure reason. We shall accordingly have to treat of the discipline, the canon, the architectonic, and, finally, the history of pure reason. This part of our Critique will accomplish, from the transcendental point of view, what has been usually attempted, but miserably executed, under the name of practical logic. It has been badly executed, I say, because general logic, not being limited to any particular kind of cognition (not even to the pure cognition of the understanding) nor to any particular objects, it cannot, without borrowing from other sciences, do more than present merely the titles or signs of possible methods and the technical expressions, which are employed in the systematic parts of all sciences; and thus the pupil is made acquainted with names, the meaning and application of which he is to learn only at some future time.
 
-CHAPTER I. The Discipline of Pure Reason.
+===========
+
+Chapter I. The Discipline of Pure Reason.
 
 Negative judgements--those which are so not merely as regards their logical form, but in respect of their content--are not commonly held in especial respect. They are, on the contrary, regarded as jealous enemies of our insatiable desire for knowledge; and it almost requires an apology to induce us to tolerate, much less to prize and to respect them.
 
@@ -2551,7 +2558,7 @@ Non defensoribus istis Tempus eget.
 
 Each must try to establish his assertions by a transcendental deduction of the grounds of proof employed in his argument, and thus enable us to see in what way the claims of reason may be supported. If an opponent bases his assertions upon subjective grounds, he may be refuted with ease; not, however to the advantage of the dogmatist, who likewise depends upon subjective sources of cognition and is in like manner driven into a corner by his opponent. But, if parties employ the direct method of procedure, they will soon discover the difficulty, nay, the impossibility of proving their assertions, and will be forced to appeal to prescription and precedence; or they will, by the help of criticism, discover with ease the dogmatical illusions by which they had been mocked, and compel reason to renounce its exaggerated pretensions to speculative insight and to confine itself within the limits of its proper sphere--that of practical principles.
 
-CHAPTER II. The Canon of Pure Reason.
+Chapter II. The Canon of Pure Reason.
 
 It is a humiliating consideration for human reason that it is incompetent to discover truth by means of pure speculation, but, on the contrary, stands in need of discipline to check its deviations from the straight path and to expose the illusions which it originates. But, on the other hand, this consideration ought to elevate and to give it confidence, for this discipline is exercised by itself alone, and it is subject to the censure of no other power. The bounds, moreover, which it is forced to set to its speculative exercise, form likewise a check upon the fallacious pretensions of opponents; and thus what remains of its possessions, after these exaggerated claims have been disallowed, is secure from attack or usurpation. The greatest, and perhaps the only, use of all philosophy of pure reason is, accordingly, of a purely negative character. It is not an organon for the extension, but a discipline for the determination, of the limits of its exercise; and without laying claim to the discovery of new truth, it has the modest merit of guarding against error.
 
@@ -2675,7 +2682,7 @@ But, it will be said, is this all that pure reason can effect, in opening up pro
 
 I shall not here eulogize philosophy for the benefits which the laborious efforts of its criticism have conferred on human reason- even granting that its merit should turn out in the end to be only negative--for on this point something more will be said in the next section. But, I ask, do you require that that knowledge which concerns all men, should transcend the common understanding, and should only be revealed to you by philosophers? The very circumstance which has called forth your censure, is the best confirmation of the correctness of our previous assertions, since it discloses, what could not have been foreseen, that Nature is not chargeable with any partial distribution of her gifts in those matters which concern all men without distinction and that, in respect to the essential ends of human nature, we cannot advance further with the help of the highest philosophy, than under the guidance which nature has vouchsafed to the meanest understanding.
 
-CHAPTER III. The Architectonic of Pure Reason.
+Chapter III. The Architectonic of Pure Reason.
 
 By the term architectonic I mean the art of constructing a system. Without systematic unity, our knowledge cannot become science; it will be an aggregate, and not a system. Thus architectonic is the doctrine of the scientific in cognition, and therefore necessarily forms part of our methodology.
 
@@ -2733,7 +2740,7 @@ Metaphysic, therefore--that of nature, as well as that of ethics, but in an espe
 
 For the same reason, metaphysics forms likewise the completion of the culture of human reason. In this respect, it is indispensable, setting aside altogether the influence which it exerts as a science. For its subject-matter is the elements and highest maxims of reason, which form the basis of the possibility of some sciences and of the use of all. That, as a purely speculative science, it is more useful in preventing error than in the extension of knowledge, does not detract from its value; on the contrary, the supreme office of censor which it occupies assures to it the highest authority and importance. This office it administers for the purpose of securing order, harmony, and well-being to science, and of directing its noble and fruitful labours to the highest possible aim--the happiness of all mankind.
 
-CHAPTER IV. The History of Pure Reason.
+Chapter IV. The History of Pure Reason.
 
 This title is placed here merely for the purpose of designating a division of the system of pure reason of which I do not intend to treat at present. I shall content myself with casting a cursory glance, from a purely transcendental point of view--that of the nature of pure reason--on the labours of philosophers up to the present time. They have aimed at erecting an edifice of philosophy; but to my eye this edifice appears to be in a very ruinous condition.
 
