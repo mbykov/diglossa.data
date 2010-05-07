@@ -1,0 +1,13 @@
+log/*.log
+*~
+*.#
+*#
+log/*.pid
+tmp/**/*
+doc/*
+sphinx/development/paragraphs*
+sphinx/development/searchd.pid
+vendor/bundle/*
+config/database.yml
+semantic.cache
+db/schema.rb
