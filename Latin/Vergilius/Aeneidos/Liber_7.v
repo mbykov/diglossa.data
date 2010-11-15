@@ -32,9 +32,9 @@ Aurora in roseis fulgebat lutea bigis:
 cum venti posuere omnisque repente resedit
 flatus et in lento luctantur marmore tonsae.
 Atque hic Aeneas ingentem ex aequore lucum
-prospicit.  Hunc inter fluvio Tiberinus amoeno.
+prospicit. Hunc inter fluvio Tiberinus amoeno.
 verticibus rapidis et multa flavus arena
-in mare prorumpit.  Variae circumque supraque
+in mare prorumpit. Variae circumque supraque
 adsuetae ripis volucres et fluminis alveo
 aethera mulcebant cantu lucoque volabant.
 flectere iter sociis terraeque advertere proras
@@ -44,11 +44,11 @@ Nunc age, qui reges, Erato, quae tempora rerum,
 quis Latio antiquo fuerit status, advena classem
 cum primum Ausoniis exercitus appulit oris,
 expediam et primae revocabo exordia pugnae.
-tu vatem, tu, diva, mone.  Dicam horrida bella,
+tu vatem, tu, diva, mone. Dicam horrida bella,
 dicam acies actosque animis in funera reges
 Tyrrhenamque manum totamque sub arma coactam
-Hesperiam.  Maior rerum mihi nascitur ordo,
-maius opus moveo.  Rex arva Latinus et urbes
+Hesperiam. Maior rerum mihi nascitur ordo,
+maius opus moveo. Rex arva Latinus et urbes
 iam senior longa placidas in pace regebat.
 
 Hunc Fauno et nympha genitum Laurente Marica
@@ -59,7 +59,7 @@ nulla fuit primaque oriens erepta iuventa est.
 Sola domum et tantas servabat filia sedes,
 iam matura viro, iam plenis nubilis annis.
 Multi illam magno e Latio totaque petebant
-Ausonia.  Petit ante alios pulcherrimus omnis
+Ausonia. Petit ante alios pulcherrimus omnis
 Turnus, avis atavisque potens, quem regia coniunx
 adiungi generum miro properabat amore;
 sed variis portenta deum terroribus obstant.
@@ -73,7 +73,7 @@ Huius apes summum densae (mirabile dictu),
 stridore ingenti liquidum trans aethera vectae,
 obsedere apicem, ex pedibus per mutua nexis
 examen subitum ramo frondente pependit.
-Continuo vates:  'Externum cernimus,' inquit,
+Continuo vates: 'Externum cernimus,' inquit,
 'adventare virum et partis petere agmen easdem
 partibus ex isdem et summa dominarier arce.'
 Praeterea, castis adolet dum altaria taedis
@@ -101,7 +101,7 @@ couloquio atque imis Acheronta adfatur Avernis.
 Hic et tum pater ipse petens responsa Latinus
 centum lanigeras mactabat rite bidentis
 atque harum effultus tergo stratisque iacebat
-velleribus:  subita ex alto vox reddita luco est:
+velleribus: subita ex alto vox reddita luco est:
 'Ne pete conubiis natam sociare Latinis,
 O mea progenies, thalamis neu crede paratis:
 externi venient generi, qui sanguine nostrum
@@ -124,12 +124,12 @@ exiguam in Cererem penuria adegit edendi
 et violare manu malisque audacibus orbem
 fatalis crusti patulis nec parcere quadris:
 'Heus! etiam mensas consumimus,' inquit Iulus,
-nec plura adludens.  Ea vox audita laborum
+nec plura adludens. Ea vox audita laborum
 prima tulit finem, primamque loquentis ab ore
 eripuit pater ac stupefactus numine pressit.
-Continuo:  'Salve fatis mihi debita tellus
+Continuo: 'Salve fatis mihi debita tellus
 vosque,' ait, 'O fidi Troiae salvete penates:
-hic domus, haec patria est.  Genitor mihi talia namque
+hic domus, haec patria est. Genitor mihi talia namque
 (nunc repeto) Anchises fatorum arcana reliquit:
 cum te, nate, fames ignota ad litora vectum
 accisis coget dapibus consumere mensas,
@@ -159,14 +159,14 @@ crateras laeti statuunt et vina coronant.
 
 Postera cum prima lustrabat lampade terras
 orta dies, urbem et finis et litora gentis
-diversi explorant:  haec fontis stagna Numici,
+diversi explorant: haec fontis stagna Numici,
 hunc Thybrim fluvium, hic fortis habitare Latinos.
 Tum satus Anchisa delectos ordine ab omni
 centum oratores augusta ad moenia regis
 ire iubet, ramis velatos Palladis omnis,
 donaque ferre viro pacemque exposcere Teucris.
 Haud mora, festinant iussi rapidisque feruntur
-passibus.  Ipse humili designat moenia fossa
+passibus. Ipse humili designat moenia fossa
 moliturque locum primasque in litore sedes
 castrorum in morem pinnis atque aggere cingit.
 Iamque iter emensi turris ac tecta Latinorum
@@ -178,9 +178,9 @@ aut acris tendunt arcus aut lenta lacertis
 spicula contorquent cursuque ictuque lacessunt:
 cum praevectus equo longaevi regis ad auris
 nuntius ingentis ignota in veste reportat
-advenisse viros.  Ille intra tecta vocari
+advenisse viros. Ille intra tecta vocari
 imperat et solio medius consedit avito.
-Tectum augustum ingens.  centum sublime columnis,
+Tectum augustum ingens. centum sublime columnis,
 urbe fuit summa, Laurentis regia Pici,
 horrendum silvis et religione parentum.
 Hic sceptra accipere et primos attollere fasces
@@ -209,7 +209,7 @@ atque haec ingressis placido prior edidit ore:
 
 'Dicite, Dardanidae (neque enim nescimus et urbem
 et genus, auditique advertitis aequore cursum),
-quid petitis?  Quae causa rates aut cuius egentis
+quid petitis? Quae causa rates aut cuius egentis
 litus ad Ausonium tot per vada caerula vexit?
 Sive errore viae seu tempestatibus acti,
 qualia multa mari nautae patiuntur in alto,
@@ -254,7 +254,7 @@ multi nos populi, multae (ne temne, quod ultro
 praeferimus manibus vittas ac verba precantia)
 et petiere sibi et voluere adiungere gentes;
 sed nos fata deum vestras exquirere terras
-imperiis egere suis.  Hinc Dardanus ortus;
+imperiis egere suis. Hinc Dardanus ortus;
 huc repetit iussisque ingentibus urguet Apollo
 Tyrrhenum ad Thybrim et fontis vada sacra Numici.
 Dat tibi praeterea fortunae parva prioris
@@ -266,7 +266,7 @@ Iliadumque labor vestes.'
 
 Talibus Ilionei dictis defixa Latinus
 obtutu tenet ora soloque immobilis haeret
-intentos volvens oculos.  Nec purpura regem
+intentos volvens oculos. Nec purpura regem
 picta movet nec sceptra movent Priameia tantum,
 quantum in conubio natae thalamoque moratur,
 et veteris Fauni voluit sub pectore sortem,
@@ -274,9 +274,9 @@ hunc illum fatis externa ab sede profectum
 portendi generum paribusque in regna vocari
 auspiciis, huic progeniem virtute futuram
 egregiam et totum quae viribus occupet orbem.
-tandem laetus ait:  'Di nostra incepta secundent
+tandem laetus ait: 'Di nostra incepta secundent
 auguriumque suum; dabitur, Troiane, quod optas,
-mullera nec sperno.  Non vobis rege Latino
+mullera nec sperno. Non vobis rege Latino
 divitis uber agri Troiaeve opulentia deerit.
 Ipse modo Aeneas, nostri si tanta cupido est,
 si iungi hospitio properat sociusque vocari,
@@ -286,9 +286,9 @@ illi pacis erit dextram tetigisse tyranni.
 vos contra regi mea nunc mandata referte.
 Est mihi nata, viro gentis quam iungere nostrae
 non patrio ex adyto sortes, non plurima caelo
-monstra sinunt:  generos externis adfore ab oris,
+monstra sinunt: generos externis adfore ab oris,
 hoc Latio restare canunt, qui sanguine nostrum
-nomen in astra ferant.  Hunc illum poscere fata
+nomen in astra ferant. Hunc illum poscere fata
 et reor et, siquid veri mens augurat, opto.'
 haec effatus equos numero pater eligit omni
 (stabant ter centum nitidi in praesaepibus altis):
@@ -308,27 +308,27 @@ saeva Iovis coniunx aurasque invecta tenebat,
 et laetum Aenean classemque ex aethere longe
 Dardaniam Siculo prospexit ab usque Pachyno.
 moliri iam tecta videt, iam fidere terrae,
-deseruisse rates:  stetit acri fixa dolore.
+deseruisse rates: stetit acri fixa dolore.
 Tum quassans caput haec effundit pectore dicta:
 'Heu stirpem invisam et fatis contraria nostris
 fata Phrygum! Num Sigeis occumbere campis,
 num capti potuere capi, num incensa cremavit
-Troia viros?  Medias acies mediosque per ignis
-invenere viam.  At, credo, mea numina tandem
+Troia viros? Medias acies mediosque per ignis
+invenere viam. At, credo, mea numina tandem
 fessa iacent odiis aut exsaturata quievi.
 Quin etiam patria excussos infesta per undas
 ausa sequi et profugis toto me opponere ponto!
 
 Absumptae in Teucros vires caelique marisque.
 Quid Syrtes aut Scylla mihi, quid vasta Charybdis
-profuit?  Optato conduntur Thybridis alveo,
-securi pelagi atque mei.  Mars perdere gentem
+profuit? Optato conduntur Thybridis alveo,
+securi pelagi atque mei. Mars perdere gentem
 immanem Lapithum valuit, concessit in iras
 ipse deum antiquam genitor Calydona Dianae,
 quod scelus aut Lapithis tantum aut Calydona merentem?
 Ast ego magna Iovis coniunx, nil linquere inausum
 quae potui infelix, quae memet in omnia verti,
-vincor ab Aenea.  Quod si mea numina non sunt
+vincor ab Aenea. Quod si mea numina non sunt
 magna satis, dubitem haud equidem implorare quod usquam est:
 flectere si nequeo superos, Acheronta movebo.
 Non dabitur regnis, esto, prohibere Latinis,
@@ -337,7 +337,7 @@ at trahere atque moras tantis licet addere rebus,
 at licet amborum populos exscindere regum.
 Hac gener atque socer coeant mercede suorum:
 sanguine Troiano et Rutulo dotabere, virgo,
-et Bellona manet te pronuba.  Nec face tantum
+et Bellona manet te pronuba. Nec face tantum
 Cisseis praegnans ignis enixa iugalis
 quin idem Veneri partus suus et Paris alter
 funestaeque iterum recidiva in Pergama taedae.'
@@ -347,7 +347,7 @@ luctificam Allecto dirarum ab sede dearum
 infernisque ciet tenebris, cui tristia bella
 iraeque insidiaeque et crimina noxia cordi.
 Odit et ipse pater Pluton, odere sorores
-Tartareae monstrum:  tot sese vertit in ora,
+Tartareae monstrum: tot sese vertit in ora,
 tam saevae facies, tot pullulat atra colubris.
 Quam Iuno his acuit verbis ac talia fatur:
 'Hunc mihi da proprium, virgo sata Nocte, laborem,
@@ -357,7 +357,7 @@ Aeneadae possint Italosve obsidere finis.
 Tu potes unanimos armare in proelia fratres
 atque odiis versare domos, tu verbera tectis
 funereasque inferre faces, tibi nomina mille,
-mille nocendi artes.  Fecundum concute pectus,
+mille nocendi artes. Fecundum concute pectus,
 disice compositam pacem, sere crimina belli:
 arma velit poscatque simul rapiatque inventus.'
 
@@ -371,7 +371,7 @@ conicit inque sinum praecordia ad intuma subdit,
 quo furibunda domum monstro permisceat omnem.
 Ille inter vestes et levia pectora lapsus
 volvitur attactu nullo fallitque furentem,
-vipeream inspirans animam:  fit tortile collo
+vipeream inspirans animam: fit tortile collo
 aurum ingens coluber, fit longae taenia vittae
 innectitque comas, et membris lubricus errat.
 Ac dum prima lues udo sublapsa veneno
@@ -405,7 +405,7 @@ quem pueri magno in gyro vacua atria circum
 intenti ludo exercent; ille actus habena
 curvatis fertur spatiis; stupet inscia supra
 inpubesque manus, mirata volubile buxum;
-dant animos plagae:  non cursu segnior illo
+dant animos plagae: non cursu segnior illo
 per medias urbes agitur populosque feroces.
 Quin etiam in silvas, simulato numine Bacchi,
 maius adorta nefas maioremque orsa furorem
@@ -423,7 +423,7 @@ pampineasque gerunt incinctae pellibus hastas;
 ipsa inter medias flagrantem fervida pinum
 sustinet ac natae Turnique canit hymenaeos,
 sanguineam torquens aciem, torvumque repente
-clamat:  'Io matres, audite, ubi quaeque, Latinae:
+clamat: 'Io matres, audite, ubi quaeque, Latinae:
 Siqua piis animis manet infelicis Amatae
 gratia, si iuris materni cura remordet,
 solvite crinalis vittas, capite orgia mecum.'
@@ -435,7 +435,7 @@ consiliumque omnemque domum vertisse Latini,
 protinus hinc fuscis tristis dea tollitur alis
 audacis Rutuli ad muros, quam dicitur urbem
 Acrisioneis Danae fundasse colonis,
-praecipiti delata noto.  Locus Ardea quondam
+praecipiti delata noto. Locus Ardea quondam
 dictus avis, et nunc magnum manet Ardea nomen,
 sed fortuna fuit; tectis hic Turnus in altis
 iam mediam nigra carpebat nocte quietem.
@@ -456,12 +456,12 @@ ipsa palam fari omnipotens Saturnia iussit.
 Quare age et armari pubem portisque moveri
 laetus in arma para, et Phrygios qui flumine pulchro
 consedere duces pictasque exure carinas.
-Caelestum vis magna iubet.  Rex ipse Latinus,
+Caelestum vis magna iubet. Rex ipse Latinus,
 ni dare coniugium et dicto parere fatetur,
 sentiat et tandem Turnum experiatur in armis.'
 
 Hic iuvenis vatem inridens sic orsa vicissim
-ore refert:  'Classis invectas Thybridis undam
+ore refert: 'Classis invectas Thybridis undam
 non, ut rere, meas effugit nuntius auris.
 Ne tantos mihi finge metus; nec regia Iuno
 inmemor est nostri.
@@ -473,14 +473,14 @@ bella viri pacemque gerent, quis bella gerenda.'
 
 Talibus Allecto dictis exarsit in iras,
 at iuveni oranti subitus tremor occupat artus,
-deriguere oculi:  tot Erinys sibilat hydris
+deriguere oculi: tot Erinys sibilat hydris
 tantaque se facies aperit; tum flammea torquens
 lumina cunctantem et quaerentem dicere plura
 reppulit et geminos erexit crinibus anguis
 verberaque insonuit rabidoque haec addidit ore:
 'En ego victa situ, quam veri effeta senectus
 arma inter regum falsa formidine ludit.
-Respice ad haec:  adsum dirarum ab sede sororum,
+Respice ad haec: adsum dirarum ab sede sororum,
 bella manu letumque gero.'
 
 Sic effata facem iuveni coniecit et atro
@@ -489,7 +489,7 @@ Olli somnum ingens rumpit pavor, ossaque et artus
 perfundit toto proruptus corpore sudor;
 arma amens fremit, arma toro tectisque requirit;
 saevit amor ferri et scelerata insania belli,
-ira super:  magno veluti cum flamma sonore
+ira super: magno veluti cum flamma sonore
 virgea suggeritur costis undantis aeni
 exsultantque aestu latices, furit intus aquai
 fumidus atque alte spumis exuberat amnis,
@@ -536,8 +536,8 @@ Silvia prima soror, palmis percussa lacertos,
 auxilium vocat et duros conclamat agrestis.
 Olli, pestis enim tacitis latet aspera silvis,
 inprovisi adsunt, hic torre armatus obusto,
-stipitis hic gravidi nodis:  quod cuique repertum
-rimanti, telum ira facit.  Vocat agmina Tyrrhus,
+stipitis hic gravidi nodis: quod cuique repertum
+rimanti, telum ira facit. Vocat agmina Tyrrhus,
 quadrifidam quercum cuneis ut forte coactis
 scindebat, rapta spirans immane securi.
 At saeva e speculis tempus dea nacta nocendi
@@ -553,7 +553,7 @@ Tum vero ad vocem celeres, qua bucina signum
 dira dedit, raptis concurrunt undique telis
 indomiti agricolae; nec non et Troia pubes
 Ascanio auxilium castris effundit apertis.
-Direxere acies.  Non iam certamine agresti,
+Direxere acies. Non iam certamine agresti,
 stipitibus duris agitur sudibusve praeustis,
 sed ferro ancipiti decernunt atraque late
 horrescit strictis seges ensibus aeraque fulgent
@@ -592,12 +592,12 @@ egregium Veneris genus et rex ipse Latinus.
 Te super aetherias errare licentius auras
 haud pater ille velit, summi regnator Olympi:
 cede locis; ego, siqua super fortuna laborum est,
-ipsa regam.'  Talis dederat Saturnia voces.
+ipsa regam.' Talis dederat Saturnia voces.
 Illa autem attollit stridentis anguibus alas
 Cocytique petit sedem, supera ardua linquens.
 Est locus Italiae medio sub montibus altis,
 nobilis et fama multis memoratus in oris,
-Amsancti valles:  densis hunc frondibus atrum
+Amsancti valles: densis hunc frondibus atrum
 urguet utrimque latus nemoris, medioque fragosus
 dat sonitum saxis et torto vertice torrens.
 Hic specus horrendum et saevi spiracula Ditis
@@ -606,12 +606,12 @@ pestiferas aperit fauces, quis condita Erinys,
 invisum numen, terras caelumque levabat.
 
 Nec minus interea extremam Saturnia bello
-imponit regina manum.  Ruit omnis in urbem
+imponit regina manum. Ruit omnis in urbem
 pastorum ex acie numerus caesosque reportant
 Almonem puerum foedatique ora Galaesi
 implorantque deos obtestanturque Latinum.
 Turnus adest medioque in crimine caedis et igni
-terrorem ingeminat:  Teucros in regna vocari,
+terrorem ingeminat: Teucros in regna vocari,
 stirpem admisceri Phrygiam, se limine pelli.
 Tum quorum attonitae Baccho nemora avia matres
 insultant thiasis (neque enim leve nomen Amatae),
@@ -629,10 +629,10 @@ consilium et saevae nutu Iunonis eunt res,
 multa deos aurasque pater testatus inanis:
 'Frangimur heu fatis,' inquit, 'ferimurque procella!
 Ipsi has sacrilego pendetis sanguine poenas,
-O miseri.  Te, Turne, nefas, te triste manebit
+O miseri. Te, Turne, nefas, te triste manebit
 supplicium, votisque deos venerabere seris.
 Nam mihi parta quies, omnisque in limine portus;
-funere felici spolior.'  Nec plura locutus
+funere felici spolior.' Nec plura locutus
 saepsit se tectis rerumque reliquit habenas.
 
 Mos erat Hesperio in Latio, quem protinus urbes
@@ -721,12 +721,12 @@ silva locum et magno cedunt virgulta fragore.
 Nec Praenestinae fundator defuit urbis,
 Volcano genitum pecora inter agrestia regem
 inventumque focis omnis quem credidit aetas
-Caeculus.  Hunc late legio comitatur agrestis:
+Caeculus. Hunc late legio comitatur agrestis:
 quique altum Praeneste viri quique arva Gabinae
 Iunonis gelidumque Anienem et roscida rivis
 Hernica saxa colunt, quos dives Anagnia pascit,
-quos, Amasene pater.  Non illis omnibus arma,
-nec clipei currusve sonant:  pars maxima glandes
+quos, Amasene pater. Non illis omnibus arma,
+nec clipei currusve sonant: pars maxima glandes
 liventis plumbi spargit, pars spicula gestat
 bina manu, fulvosque lupi de pelle galeros
 tegmen habent capiti, vestigia nuda sinistri
@@ -773,7 +773,7 @@ Massica qui rastris et quos de collibus altis
 Aurunci misere patres, Sidicinaque iuxta
 aequora quique Cales linquunt, amnisque vadosi
 accola Volturni, pariterque Saticulus asper
-Oscorumque manus.  Teretes sunt aclydes illis
+Oscorumque manus. Teretes sunt aclydes illis
 tela, sed haec lento mos est aptare flagello;
 laevas caetra tegit, falcati comminus enses.
 

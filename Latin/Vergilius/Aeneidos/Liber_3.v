@@ -9,16 +9,16 @@ diversa exsilia et desertas quaerere terras
 auguriis agimur divom, classemque sub ipsa
 Antandro et Phrygiae molimur montibus Idae,
 incerti, quo fata ferant, ubi sistere detur,
-contrahimusque viros.  Vix prima inceperat aestas,
+contrahimusque viros. Vix prima inceperat aestas,
 et pater Anchises dare fatis vela iubebat;
 litora cum patriae lacrimans portusque relinquo
-et campos, ubi Troia fuit:  feror exsul in altum
+et campos, ubi Troia fuit: feror exsul in altum
 cum sociis natoque Penatibus et magnis dis.
 
 Terra procul vastis colitur Mavortia campis,
 Thraces arant, acri quondam regnata Lycurgo,
 hospitium antiquum Troiae sociique Penates,
-dum Fortuna fuit.  Feror huc, et litore curvo
+dum Fortuna fuit. Feror huc, et litore curvo
 moenia prima loco, fatis ingressus iniquis,
 Aeneadasque meo nomen de nomine fingo.
 
@@ -32,7 +32,7 @@ conatus, ramis tegerem ut frondentibus aras,
 horrendum et dictu video mirabile monstrum.
 Nam, quae prima solo ruptis radicibus arbos
 vellitur, huic atro liquuntur sanguine guttae,
-et terram tabo maculant.  Mihi frigidus horror
+et terram tabo maculant. Mihi frigidus horror
 membra quatit, gelidusque coit formidine sanguis.
 Rursus et alterius lentum convellere vimen
 insequor, et causas penitus temptare latentis:
@@ -45,8 +45,8 @@ Tertia sed postquam maiore hastilia nisu
 adgredior, genibusque adversae obluctor harenae---
 eloquar, an sileam?---gemitus lacrimabilis imo
 auditur tumulo, et vox reddita fertur ad auris:
-'Quid miserum, Aenea, laceras?  Iam parce sepulto;
-parce pias scelerare manus.  Non me tibi Troia
+'Quid miserum, Aenea, laceras? Iam parce sepulto;
+parce pias scelerare manus. Non me tibi Troia
 externum tulit, aut cruor hic de stipite manat.
 Heu, fuge crudelis terras, fuge litus avarum:
 nam Polydorus ego; hic confixum ferrea texit
@@ -61,8 +61,8 @@ Dardaniae, cingique urbem obsidione videret.
 Ille, ut opes fractae Teucrum, et Fortuna recessit,
 res Agamemnonias victriciaque arma secutus,
 fas omne abrumpit; Polydorum obtruncat, et auro
-vi potitur.  Quid non mortalia pectora cogis,
-auri sacra fames?  Postquam pavor ossa reliquit,
+vi potitur. Quid non mortalia pectora cogis,
+auri sacra fames? Postquam pavor ossa reliquit,
 
 delectos populi ad proceres primumque parentem
 monstra deum refero, et quae sit sententia posco.
@@ -86,7 +86,7 @@ quam pius arquitenens oras et litora circum
 errantem Mycono e celsa Gyaroque revinxit,
 immotamque coli dedit et contemnere ventos.
 Huc feror; haec fessos tuto placidissima portu
-accipit:  egressi veneramur Apollinis urbem.
+accipit: egressi veneramur Apollinis urbem.
 Rex Anius, rex idem hominum Phoebique sacerdos
 vittis et sacra redimitus tempora lauro,
 occurrit; veterem Anchisen adgnovit amicum.
@@ -96,15 +96,15 @@ Templa dei saxo venerabar structa vetusto:
 'Da propriam, Thymbraee, domum; da moenia fessis
 et genus et mansuram urbem; serva altera Troiae
 Pergama, reliquias Danaum atque immitis Achilli.
-Quem sequimur?  Quove ire iubes?  Ubi ponere sedes?
+Quem sequimur? Quove ire iubes? Ubi ponere sedes?
 Da, pater, augurium, atque animis inlabere nostris.'
-Vix ea fatus eram:  tremere omnia visa repente,
+Vix ea fatus eram: tremere omnia visa repente,
 liminaque laurusque dei, totusque moveri
 mons circum, et mugire adytis cortina reclusis.
 Submissi petimus terram, et vox fertur ad auris:
 'Dardanidae duri, quae vos a stirpe parentum
 prima tulit tellus, eadem vos ubere laeto
-accipiet reduces.  Antiquam exquirite matrem:
+accipiet reduces. Antiquam exquirite matrem:
 hic domus Aeneae cunctis dominabitur oris,
 et nati natorum, et qui nascentur ab illis.'
 
@@ -118,7 +118,7 @@ mons Idaeus ubi, et gentis cunabula nostrae.
 Centum urbes habitant magnas, uberrima regna;
 maximus unde pater, si rite audita recordor,
 Teucrus Rhoeteas primum est advectus in oras,
-optavitque locum regno.  Nondum Ilium et arces
+optavitque locum regno. Nondum Ilium et arces
 Pergameae steterant; habitabant vallibus imis.
 hinc mater cultrix Cybeli Corybantiaque aera
 Idaeumque nemus; hinc fida silentia sacris,
@@ -139,7 +139,7 @@ bacchatamque iugis Naxon viridemque Donysam,
 Olearon, niveamque Paron, sparsasque per aequor
 Cycladas, et crebris legimus freta consita terris.
 Nauticus exoritur vario certamine clamor;
-hortantur socii:  ''Cretam proavosque petamus!''
+hortantur socii: ''Cretam proavosque petamus!''
 Prosequitur surgens a puppi ventus euntis
 et tandem antiquis Curetum adlabimur oris.
 Ergo avidus muros optatae molior urbis,
@@ -148,7 +148,7 @@ hortor amare focos arcemque attollere tectis.
 
 Iamque fere sicco subductae litore puppes;
 conubiis arvisque novis operata iuventus;
-iura domosque dabam:  subito cum tabida membris,
+iura domosque dabam: subito cum tabida membris,
 corrupto caeli tractu, miserandaque venit
 arboribusque satisque lues et letifer annus.
 Linquebant dulcis animas, aut aegra trahebant
@@ -171,9 +171,9 @@ hic canit, et tua nos en ultro ad limina mittit.
 Nos te, Dardania incensa, tuaque arma secuti,
 nos tumidum sub te permensi classibus aequor,
 idem venturos tollemus in astra nepotes,
-imperiumque urbi dabimus:  tu moenia magnis
+imperiumque urbi dabimus: tu moenia magnis
 magna para, longumque fugae ne linque laborem.
-Mutandae sedes:  non haec tibi litora suasit
+Mutandae sedes: non haec tibi litora suasit
 Delius, aut Cretae iussit considere Apollo.
 Est locus, Hesperiam Grai cognomine dicunt,
 terra antiqua, potens armis atque ubere glaebae;
@@ -182,7 +182,7 @@ Italiam dixisse ducis de nomine gentem:
 hae nobis propriae sedes; hinc Dardanus ortus,
 Iasiusque pater, genus a quo principe nostrum.
 Surge age, et haec laetus longaevo dicta parenti
-haud dubitanda refer:  Corythum terrasque requirat
+haud dubitanda refer: Corythum terrasque requirat
 Ausonias; Dictaea negat tibi Iuppiter arva.'
 
 Talibus attonitus visis et voce deorum---
@@ -191,11 +191,11 @@ velatasque comas praesentiaque ora videbar;
 tum gelidus toto manabat corpore sudor
 corripio e stratis corpus, tendoque supinas
 ad caelum cum voce manus, et munera libo
-intemerata focis.  Perfecto laetus honore
+intemerata focis. Perfecto laetus honore
 Anchisen facio certum, remque ordine pando.
 Adgnovit prolem ambiguam geminosque parentes,
 seque novo veterum deceptum errore locorum.
-Tum memorat:  'Nate, Iliacis exercite fatis,
+Tum memorat: 'Nate, Iliacis exercite fatis,
 sola mihi talis casus Cassandra canebat.
 Nunc repeto haec generi portendere debita nostro,
 et saepe Hesperiam, saepe Itala regna vocare.
@@ -250,13 +250,13 @@ arboribus clausi circum atque horrentibus umbris,
 instruimus mensas arisque reponimus ignem:
 rursum ex diverso caeli caecisque latebris
 turba sonans praedam pedibus circumvolat uncis,
-polluit ore dapes.  Sociis tunc, arma capessant,
+polluit ore dapes. Sociis tunc, arma capessant,
 edico, et dira bellum cum gente gerendum.
 Haud secus ac iussi faciunt, tectosque per herbam
 disponunt enses et scuta latentia condunt.
 Ergo ubi delapsae sonitum per curva dedere
 litora, dat signum specula Misenus ab alta
-aere cavo.  Invadunt socii, et nova proelia temptant,
+aere cavo. Invadunt socii, et nova proelia temptant,
 obscenas pelagi ferro foedare volucres:
 sed neque vim plumis ullam nec volnera tergo
 accipiunt, celerique fuga sub sidera lapsae
@@ -305,7 +305,7 @@ nudati socii; iuvat evasisse tot urbes
 Argolicas, mediosque fugam tenuisse per hostis.
 Interea magnum sol circumvolvitur annum,
 et glacialis hiemps aquilonibus asperat undas.
-Aere cavo clipeum.  magni gestamen Abantis,
+Aere cavo clipeum. magni gestamen Abantis,
 postibus adversis figo, et rem carmine signo:
 AENEAS HAEC DE DANAIS VICTORIBVS ARMA.
 Linquere tum portus iubeo et considere transtris:
@@ -331,16 +331,16 @@ arma amens vidit, magnis exterrita monstris
 deriguit visu in medio, calor ossa reliquit;
 labitur, et longo vix tandem tempore fatur:
 'Verane te facies, verus mihi nuntius adfers,
-nate dea?  Vivisne, aut, si lux alma recessit,
+nate dea? Vivisne, aut, si lux alma recessit,
 Hector ubi est?' Dixit, lacrimasque effudit et omnem
-implevit clamore locum.  Vix pauca furenti
+implevit clamore locum. Vix pauca furenti
 subicio, et raris turbatus vocibus hisco:
 'vivo equidem, vitamque extrema per omnia duco;
 ne dubita, nam vera vides.
 
 Heu, quis te casus deiectam coniuge tanto
 excipit, aut quae digna satis fortuna revisit
-Hectoris Andromachen?  Pyrrhin' conubia servas?'
+Hectoris Andromachen? Pyrrhin' conubia servas?'
 
 Deiecit voltum et demissa voce locuta est:
 'O felix una ante alias Priameia virgo,
@@ -349,7 +349,7 @@ iussa mori, quae sortitus non pertulit ullos,
 nec victoris eri tetigit captiva cubile!
 nos, patria incensa, diversa per aequora vectae,
 stirpis Achilleae fastus iuvenemque superbum,
-servitio enixae, tulimus:  qui deinde, secutus
+servitio enixae, tulimus: qui deinde, secutus
 Ledaeam Hermionen Lacedaemoniosque hymenaeos,
 me famulo famulamque Heleno transmisit habendam.
 Ast illum, ereptae magno inflammatus amore
@@ -361,7 +361,7 @@ Chaoniamque omnem Troiano a Chaone dixit,
 Pergamaque Iliacamque iugis hanc addidit arcem.
 Sed tibi qui cursum venti, quae fata dedere?
 Aut quisnam ignarum nostris deus adpulit oris?
-Quid puer Ascanius?  superatne et vescitur aura,
+Quid puer Ascanius? superatne et vescitur aura,
 quem tibi iam Troia---
 Ecqua tamen puero est amissae cura parentis?
 Ecquid in antiquam virtutem animosque virilis
@@ -401,7 +401,7 @@ ipse manu multo suspensum numine ducit,
 atque haec deinde canit divino ex ore sacerdos:
 
 'Nate dea,---nam te maioribus ire per altum
-auspiciis manifesta fides:  sic fata deum rex
+auspiciis manifesta fides: sic fata deum rex
 sortitur, volvitque vices; is vertitur ordo---
 pauca tibi e multis, quo tutior hospita lustres
 aequora et Ausonio possis considere portu,
@@ -441,7 +441,7 @@ hac casti maneant in religione nepotes.
 'Ast ubi digressum Siculae te admoverit orae
 ventus, et angusti rarescent claustra Pelori,
 laeva tibi tellus et longo laeva petantur
-aequora circuitu:  dextrum fuge litus et undas.
+aequora circuitu: dextrum fuge litus et undas.
 Haec loca vi quondam et vasta convolsa ruina---
 tantum aevi longinqua valet mutare vetustas---
 dissiluisse ferunt, cum protinus utraque tellus
@@ -468,7 +468,7 @@ unum illud tibi, nate dea, proque omnibus unum
 praedicam, et repetens iterumque iterumque monebo:
 Iunonis magnae primum prece numen adora;
 Iunoni cane vota libens, dominamque potentem
-supplicibus supera donis:  sic denique victor
+supplicibus supera donis: sic denique victor
 Trinacria finis Italos mittere relicta.
 
 'Huc ubi delatus Cumaeam accesseris urbem,
@@ -512,7 +512,7 @@ cura deum, bis Pergameis erepte ruinis,
 ecce tibi Ausoniae tellus; hanc arripe velis.
 Et tamen hanc pelago praeterlabare necesse est;
 Ausoniae pars illa procul, quam pandit Apollo.
-Vade' ait 'O felix nati pietate.  Quid ultra
+Vade' ait 'O felix nati pietate. Quid ultra
 provehor, et fando surgentis demoror austros?'
 
 Nec minus Andromache digressu maesta supremo
@@ -521,7 +521,7 @@ et Phrygiam Ascanio chlamydem (nec cedit honore),
 textilibusque onerat donis, ac talia fatur:
 'Accipe et haec, manuum tibi quae monumenta mearum
 sint, puer, et longum Andromachae testentur amorem,
-coniugis Hectoreae.  Cape dona extrema tuorum,
+coniugis Hectoreae. Cape dona extrema tuorum,
 O milli sola mei super Astyanactis imago:
 sic oculos, sic ille manus, sic ora ferebat;
 et nunc aequali tecum pubesceret aevo.'
@@ -531,7 +531,7 @@ Hos ego digrediens lacrimis adfabar obortis:
 iam sua; nos alia ex aliis in fata vocamur.
 Vobis parta quies; nullum maris aequor arandum,
 arva neque Ausoniae semper cedentia retro
-quaerenda.  Effigiem Xanthi Troiamque videtis
+quaerenda. Effigiem Xanthi Troiamque videtis
 quam vestrae fecere manus, melioribus, opto,
 auspiciis, et quae fuerit minus obvia Graiis.
 Si quando Thybrim vicinaque Thybridis arva
@@ -559,7 +559,7 @@ temptamusque viam et velorum pandimus alas.
 
 Iamque rubescebat stellis Aurora fugatis,
 cum procul obscuros collis humilemque videmus
-Italiam.  ''Italiam'' primus conclamat Achates,
+Italiam. ''Italiam'' primus conclamat Achates,
 ''Italiam'' laeto socii clamore salutant.
 Tum pater Anchises magnum cratera corona
 induit, implevitque mero, divosque vocavit
@@ -576,11 +576,11 @@ ipse latet; gemino demittunt bracchia muro
 turriti scopuli, refugitque ab litore templum.
 Quattuor hic, primum omen, equos in gramine vidi
 tondentis campum late, candore nivali.
-Et pater Anchises:  'Bellum, O terra hospita, portas
+Et pater Anchises: 'Bellum, O terra hospita, portas
 bello armantur equi, bellum haec armenta minantur.
 Sed tamen idem olim curru succedere sueti
 quadrupedes, et frena iugo concordia ferre;
-spes et pacis' ait.  Tum numina sancta precamur
+spes et pacis' ait. Tum numina sancta precamur
 Palladis armisonae, quae prima accepit ovantis,
 et capita ante aras Phrygio velamur amictu;
 praeceptisque Heleni, dederat quae maxima, rite
@@ -596,7 +596,7 @@ Tum procul e fluctu Trinacria cernitur Aetna,
 et gemitum ingentem pelagi pulsataque saxa
 audimus longe fractasque ad litora voces,
 exsultantque vada, atque aestu miscentur harenae.
-Et pater Anchises:  'Nimirum haec illa Charybdis:
+Et pater Anchises: 'Nimirum haec illa Charybdis:
 hos Helenus scopulos, haec saxa horrenda canebat.
 Eripite, O socii, pariterque insurgite remis!'
 
@@ -634,22 +634,22 @@ umentemque Aurora polo dimoverat umbram:
 cum subito e silvis, macie confecta suprema,
 ignoti nova forma viri miserandaque cultu
 procedit, supplexque manus ad litora tendit.
-Respicimus:  dira inluvies inmissaque barba,
+Respicimus: dira inluvies inmissaque barba,
 consertum tegumen spinis; at cetera Graius,
 [et quondam patriis ad Troiam missus in armis.]
 Isque ubi Dardanios habitus et Troia vidit
 arma procul, paulum aspectu conterritus haesit,
 continuitque gradum; mox sese ad litora praeceps
-cum fletu precibusque tulit:  'Per sidera testor,
+cum fletu precibusque tulit: 'Per sidera testor,
 per superos atque hoc caeli spirabile lumen,
 tollite me, Teucri; quascumque abducite terras;
-hoc sat erit.  Scio me Danais e classibus unum,
+hoc sat erit. Scio me Danais e classibus unum,
 et bello Iliacos fateor petiisse Penatis;
 pro quo, si sceleris tanta est iniuria nostri,
 spargite me in fluctus, vastoque inmergite ponto.
 Si pereo, hominum manibus periisse iuvabit.'
 Dixerat, et genua amplexus genibusque volutans
-haerebat.  Qui sit, fari, quo sanguine cretus,
+haerebat. Qui sit, fari, quo sanguine cretus,
 hortamur; quae deinde agitet fortuna, fateri.
 Ipse pater dextram Anchises, haud multa moratus,
 dat iuveni, atque animum praesenti pignore firmat.
@@ -660,7 +660,7 @@ nomine Achaemenides, Troiam genitore Adamasto
 paupere---mansissetque utinam fortuna!---profectus.
 Hic me, dum trepidi crudelia limina linquunt,
 inmemores socii vasto Cyclopis in antro
-deseruere.  Domus sanie dapibusque cruentis,
+deseruere. Domus sanie dapibusque cruentis,
 intus opaca, ingens; ipse arduus, altaque pulsat
 sidera---Di, talem terris avertite pestem!---
 nec visu facilis nec dictu adfabilis ulli.
@@ -695,8 +695,8 @@ prospicio, sonitumque pedum vocemque tremesco.
 Victum infelicem, bacas lapidosaque corna,
 dant rami et volsis pascunt radicibus herbae.
 Omnia conlustrans, hanc primum ad litora classem
-conspexi venientem.  Huic me, quaecumque fuisset,
-addixi:  satis est gentem effugisse nefandam.
+conspexi venientem. Huic me, quaecumque fuisset,
+addixi: satis est gentem effugisse nefandam.
 Vos animam hanc potius quocumque absumite leto.'
 
 Vix ea fatus erat, summo cum monte videmus
@@ -725,7 +725,7 @@ At genus e silvis Cyclopum et montibus altis
 excitum ruit ad portus et litora complent.
 Cernimus adstantis nequiquam lumine torvo
 Aetnaeos fratres, caelo capita alta ferentis,
-concilium horrendum:  quales cum vertice celso
+concilium horrendum: quales cum vertice celso
 aeriae quercus, aut coniferae cyparissi
 constiterunt, silva alta Iovis, lucusve Dianae.
 Praecipites metus acer agit quocumque rudentis
@@ -734,14 +734,14 @@ Contra iussa monent Heleni Scyllam atque Charybdin
 inter, utramque viam leti discrimine parvo,
 ni teneant cursus; certum est dare lintea retro.
 Ecce autem Boreas angusta ab sede Pelori
-missus adest.  Vivo praetervehor ostia saxo
+missus adest. Vivo praetervehor ostia saxo
 Pantagiae Megarosque sinus Thapsumque iacentem.
 Talia monstrabat relegens errata retrorsus
 litora Achaemenides; comes infelicis Ulixi.
 
 Sicanio praetenta sinu iacet insula contra
 Plemyrium undosum; nomen dixere priores
-Ortygiam.  Alpheum fama est huc Elidis amnem
+Ortygiam. Alpheum fama est huc Elidis amnem
 occultas egisse vias subter mare; qui nunc
 ore, Arethusa, tuo Siculis confunditur undis.
 Iussi numina magna loci veneramur; et inde
@@ -756,9 +756,9 @@ teque datis linquo ventis, palmosa Selinus,
 et vada dura lego saxis Lilybeia caecis.
 
 Hinc Drepani me portus et inlaetabilis ora
-accipit.  Hic, pelagi tot tempestatibus actis,
+accipit. Hic, pelagi tot tempestatibus actis,
 heu genitorem, omnis curae casusque levamen,
-amitto Anchisen:  hic me, pater optume, fessum
+amitto Anchisen: hic me, pater optume, fessum
 deseris, heu, tantis nequiquam erepte periclis!
 Nec vates Helenus, cum multa horrenda moneret,
 hos mihi praedixit luctus, non dira Celaeno.
