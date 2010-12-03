@@ -13,13 +13,3 @@ source:
   en: http://www.thelatinlibrary.com/verg.html
   lat: http://nodictionaries.com/vergil/aeneid-1/1-7
 
-#### 
-#- найти-создать scroll
-#- обработать full_title, если есть
-# - перейти к следующему в дереве
-#- закачать текст
-#- обработать, если rg или de
-
-# puts Dir['public/data/Latin/**/*']
-
-

@@ -1,19 +1,31 @@
+---
 authors: 
   de: M. Heidegger - heidegger
   ru: В.В. Бибихин - bibikhin
 
 # optional params:
 
-titles: # i.e. full_titles, for contents table
-  4: Division Two. Da-Sein And Temporality
-  1: Forewarning
-  0: Dedication
-  2: Introduction. The Exposition of the Question of the Meaning of Being # empty
-  3: Division One. The Preparatory Fundamental Analysis Of Da-Sein
+tree:
+  - Dedication
+  - Forewarning
+  - Introduction. The Exposition of the Question of the Meaning of Being:
+    - Chapter 1. The Necessity, Structure, and Priority of the Question of Being
+    - "Chapter 2. The Double Task in Working Out the Question of Being: The Method of the Investigation and Its Outline"
+  - Division One. The Preparatory Fundamental Analysis Of Da-Sein:
+    - Chapter 1. The Exposition of the Task of a Preparatory Analysis of Da-sein
+    - Chapter 2. Being-in-the-World in General as the Fundamental Constitution of Da-sein
+    - Chapter 3. The Worldiness of the World
+    - Chapter 4. "Being-in-the-World as Being-with and Being a Self: The 'They'"
+    - Chapter 5. Being-in as Such
+    - Chapter 6. Care as the Being of Dasein
 
-info: 
+  - Division Two. Da-Sein And Temporality:
+    - Chapter 1. The Possible Being-a-Whole of Dasein and Being-toward-Death
+    - Chapter 2. The Attestation of Da-sein of an Authentic Potentiality-of-Being, and Resoluteness
+    - Chapter 3. The Authentic Potentiality-for-Being-a-Whole of Da-sein, and Temporality as the Ontological Meaning of Care
+    - Chapter 4. Temporality and Everydayness
+    - Chapter 5. Temporality and Historicity
+    - Chapter 6. Temporality and Within-Timeness as the Origin of the Vulgar Concept of Time
 
-source: 
-
-
+---
 
