@@ -1,0 +1,38 @@
+---
+authors:
+  gr: palama
+  ru: bibikhin
+
+tree:
+  title: Triads
+  ru: Триады В Защиту Священно-Безмолвствующих
+  children:
+    - title: Notes
+      ru: Примечания переводчика
+    - title: Triad First
+      ru: Триада первая
+      children:
+        - title: Part 1
+          ru: Часть первая 
+        - title: Part 2
+          ru: Часть вторая
+        - title: Part 3
+          ru: Часть третья
+    - title: Triad Second
+      ru: Триада вторая
+      children:
+        - title: Part 1
+          ru: Часть первая 
+        - title: Part 2
+          ru: Часть вторая
+        - title: Part 3
+          ru: Часть третья
+    - title: Triad Third
+      ru: Триада третья
+      children:
+        - title: Part 1
+          ru: Часть первая 
+        - title: Part 2
+          ru: Часть вторая
+        - title: Part 3
+          ru: Часть третья

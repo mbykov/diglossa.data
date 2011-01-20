@@ -1,0 +1,14 @@
+---
+authors: 
+  gr: aristotle
+  en: ross
+  ru: brag
+tree:
+  title: Ethics
+  en: Nicomachean Ethics
+  ru: Никомахова этика
+  children_add:
+    - title: Preface
+      en: " "
+      ru: Примечания переводчика
+

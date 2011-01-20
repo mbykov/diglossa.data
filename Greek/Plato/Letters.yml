@@ -1,0 +1,19 @@
+---
+authors: 
+  gr: plato
+  ru: anan
+  en: jowett
+  fr: cousin
+tree:
+  title: Letters
+  en: Letters
+  ru: Письма
+  children:
+    - title: Letter_7
+      en: Letter seventh
+      ru: Седьмое письмо
+      authors: 
+        gr: plato
+        ru: anan
+        en: harward
+        fr: cousin

@@ -1,0 +1,50 @@
+---
+authors: 
+  gr: plato
+  ru: anan
+  en: jowett
+  fr: cousin
+tree:
+  title: Dialogues
+  en: Dialogues
+  ru: Диалоги
+  children:
+    - title: Sophist
+      en: Sophist
+      ru: Софист
+      authors: 
+        gr: plato
+        ru: anan
+        en: jowett
+        fr: cousin
+    - title: Parmenides
+      en: Parmenides
+      ru: Парменид
+      authors: 
+        gr: plato
+        en: jowett
+        fr: cousin
+        ru: tomasov
+    - title: Symposium
+      en: Symposium
+      ru: Пир
+      authors: 
+        gr: plato
+        en: jowett
+        ru: apt
+    - title: Theaetet
+      en: Theaetet
+      ru: Теэтет
+      authors: 
+        gr: plato
+        en: jowett
+        ru: vasil
+        fr: chambry
+        de: lasson
+    - title: Timaeus
+      en: Timaeus
+      ru: Тимей
+      authors: 
+        gr: plato
+        en: jowett
+        ru: aver

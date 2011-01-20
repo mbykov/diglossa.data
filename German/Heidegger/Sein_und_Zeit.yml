@@ -1,0 +1,74 @@
+---
+authors:
+  de: heidegger
+  ru: bibikhin
+
+tree:
+  title: Sein und Zeit
+  en: Sein und Zeit
+  ru: Бытие и время
+  children:
+    - title: Notes
+      en: Notes of translator
+      ru: Примечания переводчика
+    - {title: Dedication,
+       en: Dedication,
+       ru: Посвящение }
+    - title: Forewarning
+      en: Forewarning
+      ru: Предисловие
+    - title: Introduction
+      en: Introduction. The Exposition of the Question of the Meaning of Being
+      ru: Введение. Экспозиция вопроса о смысле бытия
+      children:
+        - title: Chapter 1
+          en: Chapter 1. The Necessity, Structure, and Priority of the Question of Being
+          ru: Первая глава. Необходимость, структура и приоритет вопроса о бытии
+        -  title: Chapter 2
+           en: Chapter 2. The Double Task in Working Out the Question of Being
+           ru: Вторая глава.  Двоякая задача в разработке бытийного вопроса Метод разыскания и его план
+    - title: Division One
+      en: Division One. The Preparatory Fundamental Analysis Of Da-Sein
+      ru: Первый раздел. Подготовительный фундаментальный анализ присутствия
+      children:
+        - title: Chapter 1
+          en: Chapter 1. The Exposition of the Task of a Preparatory Analysis of Da-sein
+          ru: Первая глава. Экспозиция задачи подготовительного анализа присутствия
+        - title: Chapter 2
+          en: Chapter 2. Being-in-the-World in General as the Fundamental Constitution of Da-sein
+          ru: Вторая глава. Бытие-в-мире вообще как основоустройство присутствия
+        - title: Chapter 3
+          en: Chapter 3. The Worldiness of the World
+          ru: Третья глава. Мирность мира
+        - title: Chapter 4
+          en: Chapter 4. Being-in-the-World as Being-with and Being a Self - The 'They'
+          ru: Четвертая глава. Бытие-в-мире как событие и бытие самости. "Люди"
+        - title: Chapter 5
+          en: Chapter 5. Being-in as Such
+          ru: Пятая глава. Бытие-в как таковое
+        - title: Chapter 6
+          en: Chapter 6. Care as the Being of Dasein
+          ru: Шестая глава. Забота как бытие присутствия
+    - title: Division Two
+      en: Division Two. Da-Sein And Temporality
+      ru:  Второй раздел. Присутствие и временность
+      children:
+        - title: Chapter 1
+          en: Chapter 1. The Possible Being-a-Whole of Dasein and Being-toward-Death
+          ru: Первая глава. Возможная целость присутствия и бытие к смерти
+        - title: Chapter 2
+          en: Chapter 2. The Attestation of Da-sein of an Authentic Potentiality-of-Being, and Resoluteness
+          ru: Вторая глава. Присутствиеразмерное свидетельство собственной способности быть и решимость
+        - title: Chapter 3
+          en: Chapter 3. The Authentic Potentiality-for-Being-a-Whole of Da-sein, and Temporality as the Ontological Meaning of Care
+          ru: Третья глава. Собственная способность присутствия быть целым и временность как онтологический смысл заботы
+        - title: Chapter 4
+          en: Chapter 4. Temporality and Everydayness
+          ru: Четвертая глава. Временность и повседневность
+        - title: Chapter 5
+          en: Chapter 5. Temporality and Historicity
+          ru: Пятая глава. Временность и историчность
+        - title: Chapter 6
+          en: Chapter 6. Temporality and Within-Timeness as the Origin of the Vulgar Concept of Time
+          ru: Шестая глава. Временность и внутривременность как источник расхожей концепции времени
+---
