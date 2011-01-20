@@ -1,0 +1,109 @@
+---
+authors:
+  de: kant
+  ru: losski
+  en: meiklejohn
+tree:
+  title: Kritik der reinen Vernunft
+  en: The Critique Of Pure Reason
+  ru: Критика Чистого Разума
+  children:
+    - {title: Dedication,
+       en: Dedication,
+       ru: Посвящение }
+    - title: Preface
+      en: Preface
+      ru: Предисловие Ко Второму Изданию
+    - title: Introduction
+      en: Introduction
+      ru: Введение
+    - title: I Transcendental Doctrine Of Elements
+      en: I. Transcendental Doctrine Of Elements
+      ru: I. Трансцендентальное Учение О Началах
+      children:
+        - title: First Part
+          en: First Part. Transcendental Aesthetic
+          ru: Часть Первая. Трансцендентальная Эстетика
+        -  title: Second Part
+           en: Second Part. Transcendental Logic
+           ru: Часть Вторая. Трансцендентальная Логика
+           children:
+             - title: Introduction
+               en: Introduction. Idea Of A Transcendental Logic
+               ru: Введение. Идея Трансцендентальной Логики
+             - title: First Division
+               en: First Division. Transcendental Analytic
+               ru: Отдел Первый. Трансцендентальная Аналитика
+               children:
+                 - title: Book I
+                   en: Book I. Analytic of Conceptions
+                   ru: Книга Первая. Аналитика Понятий
+                   children:
+                     - title: Chapter I
+                       en: Chapter I. Of The Transcendental Clue To The Discovery Of All Pure Conceptions of the Understanding
+                       ru: Глава Первая. О Способе Открытия Всех Чистых Рассудочных Понятий
+                     - title: Chapter II
+                       en: Chapter II. Of the Deduction of the Pure Conceptions of the Understanding
+                       ru: Глава Вторая. О Дедукции Чистых Рассудочных Понятий
+                 - title: Book II
+                   en: Book II. Analytic of Principles
+                   ru: Книга Вторая. Аналитика Основоположений
+                   children:
+                     - title: Introduction
+                       en: Introduction. Of the Transcendental Faculty of judgement in General
+                       ru: Введение. О Трансцендентальной Способности Суждения Вообще
+                     - title: Chapter I
+                       en: Chapter I. Of the Schematism at of the Pure Conceptions of the Understanding
+                       ru: Глава Первая. О Схематизме Чистых Рассудочных Понятий
+                     - title: Chapter II
+                       en: Chapter II. System of all Principles of the Pure Understanding
+                       ru: Глава Вторая. Система Всех Основоположений Чистого Рассудка
+                     - title: Chapter III
+                       en: Chapter III. Of the Ground of the Division of all Objects into Phenomena and Noumena
+                       ru: Глава Третья. Об Основании Различения Всех Предметов Вообще На Phaenomena И Noumena
+                     - title: Appendix
+                       en: Appendix. Of the Equivocal Nature or Amphiboly of the Conceptions of Reflection from the Confusion of the Transcendental with the Empirical use of the Understanding
+                       ru: Приложение. Об Амфиболии Рефлективных Понятий, Происходящей От Смешения Эмпирического Применения Рассудка С Трансцендентальным
+             - title: Second Division
+               en: Second Division. Transcendental Dialectic
+               ru: Отдел Второй. Трансцендентальная Диалектика
+               children:
+                 - title: Introduction
+                   en: Introduction. I. Of Transcendental Illusory Appearance
+                   ru: Книга Первая. Аналитика Понятий
+                   children:
+                     - title: Book I
+                       en: Book I. Of The Conceptions Of Pure Reason
+                       ru: Книга Первая. О Понятиях Чистого Разума
+                     - title: Book II
+                       en: Book II. Of The Dialectical Procedure Of Pure Reason
+                       ru: Книга Вторая. О Диалектических Выводах Чистого Разума
+                       children:
+                        - title: Chapter I
+                          en: Chapter I. Of the Paralogisms of Pure Reason
+                          ru: Глава Первая. О Паралогизмах Чистого Разума
+                        - title: Chapter II
+                          en: Chapter II. The Antinomy of Pure Reason
+                          ru: Глава Вторая. Антиномия Чистого Разума
+                        - title: Chapter III
+                          en: Chapter III. The Ideal of Pure Reason
+                          ru: Глава Третья. Идеал Чистого Разума
+                        - title: Appendix
+                          en: Appendix. Of the Regulative Employment of the Ideas of Pure Reason
+                          ru: Приложение. О Регулятивном Применении Идей Чистого Разума 
+    - title: II Transcendental Doctrine Of Method
+      en: II. Transcendental Doctrine Of Method
+      ru: II. Трансцендентальное Учение О Методе
+      children:
+        - title: Chapter I
+          en: Chapter I. The Discipline of Pure Reason
+          ru: Глава Первая. Дисциплина Чистого Разума
+        -  title: Chapter II
+           en: Chapter II. The Canon of Pure Reason
+           ru: Глава Вторая. Канон Чистого Разума
+        - title: Chapter III
+          en: Chapter III. The Architectonic of Pure Reason
+          ru: Глава Третья. Архитектоника Чистого Разума
+        - title: Chapter IV
+          en: Chapter IV. The History of Pure Reason
+          ru: Глава Четвертая. История Чистого Разума
