@@ -1,0 +1,273 @@
+---
+authors:
+  de: nietzsche
+  ru: antonovsky
+  en: common
+tree:
+  title: Also Sprach Zarathustra
+  en: Thus Spake Zarathustra
+  ru: Так говорил Заратустра. Книга для всех и ни для кого
+  children:
+    - title: Zarathustras_Vorrede
+      en: Zarathustra's Prologue
+      ru: Предисловие Заратустры
+    - title: Erster Theil
+      en: First Part
+      ru: Часть Первая
+      children:
+        - title: Von den drei Verwandlungen
+          en: I. The Three Metamorphoses
+          ru: О трех превращениях
+        - title: Von den Lehrstuhlen der Tugend
+          en: II. The Academic Chairs Of Virtue
+          ru: О кафедрах добродетели
+        - title: Von den Hinterweltlern
+          en: III. Backworldsmen
+          ru: О потусторонниках
+        - title: Von den Verachtern des Leibes
+          en: IV. The Despisers Of The Body
+          ru: О презирающих тело
+        - title: Von den Freuden und Leidenschaften
+          en: V. Joys And Passions
+          ru: О радостях и страстях
+        - title: Vom bleichen Verbrecher
+          en: VI. The Pale Criminal
+          ru: О бледном преступнике
+        - title: Vom Lesen und Schreiben
+          en: VII. Reading And Writing
+          ru: О чтении и письме
+        - title: Vom Baum am Berge
+          en: VIII. The Tree On The Hill
+          ru: О дереве на горе
+        - title: Von den Predigern des Todes
+          en: IX. The Preachers Of Death
+          ru: О проповедниках смерти
+        - title: Vom Krieg und Kriegsvolke
+          en: X. War And Warriors
+          ru: О войне и воинах
+        - title: Vom neuen Gotzen
+          en: XI. The New Idol
+          ru: О новом кумире
+        - title: Von den Fliegen des Marktes
+          en: XII. The Flies In The Market-Place
+          ru: О базарных мухах
+        - title: Von der Keuschheit
+          en: XIII. Chastity
+          ru: О целомудрии
+        - title: Vom Freunde
+          en: XIV. The Friend
+          ru: О друге
+        - title: Von tausend und Einem Ziele
+          en: XV. The Thousand And One Goals
+          ru: О тысяче и одной цели
+        - title: Von der Nachstenliebe
+          en: XVI. Neighbour-Love
+          ru: О любви к ближнему
+        - title: Vom Wege des Schaffenden
+          en: XVII. The Way Of The Creating One
+          ru: О пути созидающего
+        - title: Von alten und jungen Weiblein
+          en: XVIII. Old And Young Women
+          ru: О старых и молодых бабенках
+        - title: Vom Biss der Natter
+          en: XIX. The Bite Of The Adder
+          ru: Об укусе змеи
+        - title: Von Kind und Ehe
+          en: XX. Child And Marriage
+          ru: О ребенке и браке
+        - title: Vom freien Tode
+          en: XXI. Voluntary Death
+          ru: О свободной смерти
+        - title: Von der schenkenden Tugend
+          en: XXII. The Bestowing Virtue
+          ru: О дарящей добродетели
+    - title: Zweiter Theil
+      en: Second Part
+      ru: Часть Вторая
+      children:
+        - title: Das Kind mit dem Spiegel
+          en: XXIII. The Child With The Mirror
+          ru: Ребенок с зеркалом
+        - title: Auf den gluckseligen Inseln
+          en: XXIV. In The Happy Isles
+          ru: На блаженных островах
+        - title: Von den Mitleidigen
+          en: XXV. The Pitiful
+          ru: О сострадательных
+        - title: Von den Priestern
+          en: XXVI. The Priests
+          ru: О священниках
+        - title: Von den Tugendhaften
+          en: XXVII. The Virtuous
+          ru: О добродетельных
+        - title: Vom Gesindel
+          en: XXVIII. The Rabble
+          ru: О людском отребье
+        - title: Von den Taranteln
+          en: XXIX. The Tarantulas
+          ru: О тарантулах
+        - title: Von den beruhmten Weisen
+          en: XXX. The Famous Wise Ones
+          ru: О прославленных мудрецах
+        - title: Das Nachtlied
+          en: XXXI. The Night-Song
+          ru: Ночная песнь
+        - title: Das Tanzlied
+          en: XXXII. The Dance-Song
+          ru: Танцевальная песнь
+        - title: Das Grablied
+          en: XXXIII. The Grave-Song
+          ru: Надгробная песнь
+        - title: Von der Selbst-Uberwindung
+          en: XXXIV. Self-Surpassing
+          ru: О самопреодолении
+        - title: Von den Erhabenen
+          en: XXXV. The Sublime Ones
+          ru: О возвышенных
+        - title: Vom Lande der Bildung
+          en: XXXVI. The Land Of Culture
+          ru: О стране культуры
+        - title: Von der unbefleckten Erkenntniss
+          en: XXXVII. Immaculate Perception
+          ru: О непорочном познании
+        - title: Von den Gelehrten
+          en: XXXVIII. Scholars
+          ru: Об ученых
+        - title: Von den Dichtern
+          en: XXXIX. Poets
+          ru: О поэтах
+        - title: Von grossen Ereignissen
+          en: XL. Great Events
+          ru: О великих событиях
+        - title: Der Wahrsager
+          en: XLI. THE Soothsayer
+          ru: Прорицатель
+        - title: Von der Erlosung
+          en: XLII. Redemption
+          ru: Об избавлении
+        - title: Von der Menschen-Klugheit
+          en: XLIII. Manly Prudence
+          ru: О человеческой мудрости
+        - title: Die stillste Stunde
+          en: XLIV. The Stillest Hour
+          ru: Самый тихий час
+    - title: Dritter Theil
+      en: Third Part
+      ru: Часть Третья
+      children:
+        - title: Der Wanderer
+          en: XLV. The Wanderer
+          ru: Странник
+        - title: Vom Gesicht und Rathsel
+          en: XLVI. The Vision And The Enigma
+          ru: О призраке и загадке
+        - title: Von der Seligkeit wider Willen
+          en: XLVII. Involuntary Bliss
+          ru: О блаженстве против воли
+        - title: Vor Sonnen-Aufgang
+          en: XLVIII. Before Sunrise
+          ru: Перед восходом солнца
+        - title: Von der verkleinernden Tugend
+          en: XLIX. The Bedwarfing Virtue
+          ru: Об умаляющей добродетели
+        - title: Auf dem Ölberge
+          en: L. On The Olive-Mount
+          ru: На горе Елеонской
+        - title: Vom Vorubergehen
+          en: LI. On Passing-By
+          ru: О прохождении мимо
+        - title: Von den Abtrunnigen
+          en: LII. The Apostates
+          ru: Об отступниках
+        - title: Die Heimkehr
+          en: LIII. The Return Home
+          ru: Возвращение
+        - title: Von den drei Bosen
+          en: LIV. The Three Evil Things
+          ru: О трояком зле
+        - title: Vom Geist der Schwere
+          en: LV. The Spirit Of Gravity
+          ru: О духе тяжести
+        - title: Von alten und neuen Tafeln
+          en: LVI. Old And New Tables
+          ru: О старых и новых скрижалях
+        - title: Der Genesende
+          en: LVII. The Convalescent
+          ru: Выздоравливающий
+        - title: Von der grossen Sehnsucht
+          en: LVIII. The Great Longing
+          ru: О великом томлении
+        - title: Das andere Tanzlied
+          en: LIX. The Second Dance-Song
+          ru: Другая танцевальная песнь
+        - title: Die sieben Siegel
+          en: LX. The Seven Seals
+          ru: Семь печатей 
+    - title: Vierter_und_letzter_Theil
+      en: Fourth Part
+      ru: Часть Четвертая
+      children:
+        - title: Das Honig-Opfer
+          en: LXI. The Honey Sacrifice
+          ru: Жертва медовая
+        - title: Der Nothschrei
+          en: LXII. The Cry Of Distress
+          ru: Крик о помощи
+        - title: Gesprach mit den Konigen
+          en: LXIII. Talk With The Kings
+          ru: Беседа с королями
+        - title: Der Blutegel
+          en: LXIV. The Leech
+          ru: Пиявка
+        - title: Der Zauberer
+          en: LXV. The Magician
+          ru: Чародей
+        - title: Ausser Dienst
+          en: LXVI. Out Of Service
+          ru: В отставке
+        - title: Der hasslichste Mensch
+          en: LXVII. The Ugliest Man
+          ru: Самый безобразный человек
+        - title: Der freiwillige Bettler
+          en: LXVIII. The Voluntary Beggar
+          ru: Добровольный нищий
+        - title: Der Schatten
+          en: LXIX. The Shadow
+          ru: Тень
+        - title: Mittags
+          en: LXX. Noontide
+          ru: В полдень
+        - title: Die Begrussung
+          en: LXXI. The Greeting
+          ru: Приветствие
+        - title: Das Abendmahl
+          en: LXXII. The Supper
+          ru: Тайная вечеря
+        - title: Vom hoheren Menschen
+          en: LXXIII. The Higher Man
+          ru: О высшем человеке
+        - title: Das Lied der Schwermuth
+          en: LXXIV. The Song Of Melancholy
+          ru: Песнь тоски
+        - title: Von der Wissenschaft
+          en: LXXV. Science
+          ru: О науке
+        - title: Unter Tochtern der Wuste
+          en: LXXVI. Among Daughters Of The Desert
+          ru: Среди дочерей пустыни
+        - title: Die Erweckung
+          en: LXXVII. The Awakening
+          ru: Пробуждение
+        - title: Das Eselsfest
+          en: LXXVIII. The Ass-Festival
+          ru: Праздник осла
+        - title: Das Nachtwandler-Lied
+          en: LXXIX. The Drunken Song
+          ru: Песнь опьянения
+        - title: Das Zeichen
+          en: LXXX. The Sign
+          ru: Знамение
+---
+        - title: 
+          en: 
+          ru: 
