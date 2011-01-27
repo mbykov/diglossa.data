@@ -6,33 +6,47 @@ authors:
 tree:
   title: Triads
   ru: Триады В Защиту Священно-Безмолвствующих
+  en: Triads (only V.V.Bibikhin)
   children:
     - title: Notes
       ru: Примечания переводчика
+      en: Примечания переводчика
     - title: Triad First
       ru: Триада первая
+      en: Триада первая
       children:
         - title: Part 1
           ru: Часть первая 
+          en: Часть первая 
         - title: Part 2
           ru: Часть вторая
+          en: Часть вторая
         - title: Part 3
           ru: Часть третья
+          en: Часть третья
     - title: Triad Second
       ru: Триада вторая
+      en: Триада вторая
       children:
         - title: Part 1
           ru: Часть первая 
+          en: Часть первая 
         - title: Part 2
           ru: Часть вторая
+          en: Часть вторая
         - title: Part 3
           ru: Часть третья
+          en: Часть третья
     - title: Triad Third
       ru: Триада третья
+      en: Триада третья
       children:
         - title: Part 1
           ru: Часть первая 
+          en: Часть первая 
         - title: Part 2
           ru: Часть вторая
+          en: Часть вторая
         - title: Part 3
           ru: Часть третья
+          en: Часть третья
