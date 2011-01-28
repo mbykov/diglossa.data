@@ -1,0 +1,15 @@
+authors: 
+  it: machiavelli
+  ru: muravieva
+  en: marriott
+  en1: thomson
+  fr: peries
+  de: regis
+tree:
+  title: Il_Principe
+  en: Prince
+  ru: Государь
+  children_add:
+    - title: Dedica
+      en: Dedication
+      ru: Посвящение

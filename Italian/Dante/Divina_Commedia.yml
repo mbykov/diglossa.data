@@ -1,0 +1,19 @@
+authors: 
+  it: dante
+  ru: lozinsky
+  en: longfellow
+  de: streckfuss
+tree:
+  title: Divina_Commedia
+  en: Divina Commedia
+  ru: Божественная Комедия
+  children:
+    - title: Inferno
+      en: Inferno
+      ru: Ад
+    - title: Purgatorio
+      en: Purgatory
+      ru: Чистилище
+    - title: Paradiso
+      en: Paradise
+      ru: Рай
